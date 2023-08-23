@@ -1,0 +1,95 @@
+﻿@page
+@model WebApplication.Pages.USER.InformationModel
+
+@{
+    ViewData["Title"] = "Information";
+}
+
+<h1>Information</h1>
+@if (Model.IsAdmin)
+{
+    <h1>Your are ADMIN !!!</h1>
+}else{
+<div>
+        <h4>Customer</h4> 
+        <div>
+            <a asp-page="./Edit" asp-route-id="@Model.Customer?.CustomerId">Edit</a> |
+        </div>
+
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Customer.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Customer.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Customer.CustomerName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Customer.CustomerName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Customer.City)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Customer.City)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Customer.Country)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Customer.Country)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Customer.Password)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Customer.Password)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Customer.Birthday)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Customer.Birthday)
+        </dd>
+    </dl>
+</div>
+    @if (Model.customerOrders.Count!=0)
+    {
+        <table class="table-bordered">
+           <thead>
+               <tr>
+                   <td>OrderID</td>
+                   <td>Ordered Date</td>
+                   <td>Shipped Date</td>
+                   <td>Total money</td>
+                   <td>Order Status</td>
+                   <td></td>
+               </tr>
+           </thead>
+           <tbody>
+                @foreach(var order in Model.customerOrders)
+                {
+                   <tr>
+                       <td>@order.OrderId</td>
+                       <td>@order.OrderDate</td>
+                        <td>@order.ShippedDate</td>
+                         <td>@order.Total</td>
+                        <td>@order.OrderStatus</td>
+                        <td><a asp-page="./Details" asp-route-id="@order.OrderId">View Detail</a></td>
+               </tr>  
+
+                }
+               
+           </tbody>
+        </table>
+    }
+    <table>
+   
+</table>
+}
+<form method="post">
+    <input type="submit" value="Logout" />
+</form>

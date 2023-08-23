@@ -1,0 +1,75 @@
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\vothi\Downloads\VoThiTuongDuy_SE1608_A01\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\FPT\Semester 7\PRN221\Project\VoThiTuongDuy_SE1608_A01\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS02\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\FPT\Semester 7\PRN221\Project\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\FPT\Semester 7\PRN221\Project\Assigment\LeHieuNghia_SE150939_AS03\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

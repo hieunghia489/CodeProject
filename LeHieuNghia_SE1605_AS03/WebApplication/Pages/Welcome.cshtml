@@ -1,0 +1,45 @@
+﻿@page "/"
+@model WebApplication.Pages.WelcomeModel
+@{
+}
+
+<h1>
+    Login form
+</h1>
+<form method="post">
+    <table>
+        <tr>
+            <td>
+                Email : 
+            </td>
+            <td>
+                <input asp-for="Account.Email" />
+            </td>
+            <td>
+                <span asp-validation-for="Account.Email" class="text-danger"></span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Password :
+            </td>
+            <td>
+                <input asp-for="Account.Password" type="password" />
+            </td>
+            <td>
+                <span asp-validation-for="Account.Password" class="text-danger"></span>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <input type="submit" value="Login" />
+</td>
+<td colspan="2">
+    <input type="reset" value="Reset"/>
+</td>
+        </tr>
+    </table>
+</form>
+<p>Register a new account <a href="/USER/Register">Here</a></p>
+<h3 style="color:red">@ViewData["Nofication"]</h3>
+

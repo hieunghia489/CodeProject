@@ -1,0 +1,103 @@
+﻿@page
+@model WebApplication.Pages.USER.Shopping.FlowerStoreModel
+
+@{
+    ViewData["Title"] = "FlowerStore";
+}
+
+<h1>FlowerStore</h1>
+<h3>Nofication <h3 style="color:red">@ViewData["Nofication"]</h3></h3>
+@if (Model.isAdmin)
+{
+    <h1>Your are ADMIN !!!</h1>
+    <h4>Login by Customer Account to shopping</h4>
+}else{
+<form method="post">
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FlowerBouquet[0].FlowerBouquetName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FlowerBouquet[0].Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FlowerBouquet[0].UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FlowerBouquet[0].UnitsInStock)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FlowerBouquet[0].FlowerBouquetStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FlowerBouquet[0].Category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FlowerBouquet[0].Supplier)
+            </th>
+            <th> Add </th>
+        </tr>
+    </thead>
+    <tbody>
+    
+@foreach (var item in Model.FlowerBouquet) {
+
+            <tr>
+                <td>
+                        @Html.DisplayFor(modelItem => item.FlowerBouquetName)
+                </td>
+                <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                        @Html.DisplayFor(modelItem => item.UnitPrice)
+                </td>
+                <td>
+                        @Html.DisplayFor(modelItem => item.UnitsInStock)
+                </td>
+                <td>
+                      @*  @Html.DisplayFor(modelItem => item.FlowerBouquetStatus)*@
+                        @if (item.FlowerBouquetStatus == 1)
+                        {
+                            <h4>Selling</h4>
+                        }
+                        else
+                        {
+                            <h4>Stop Sell</h4>
+                        }
+                    </td>
+                <td>
+                        @Html.DisplayFor(modelItem => item.Category.CategoryDescription)
+                </td>
+                <td>
+                        @Html.DisplayFor(modelItem => item.Supplier.SupplierAddress)
+                </td>
+                <td>
+                        @if (item.FlowerBouquetStatus == 1)
+                        {
+                            <input type="hidden" name="flowerID" value="@item.FlowerBouquetId">
+                            <input type="text" name="quantity"value="0">
+                        }
+                        else{
+                            <h4>---</h4>
+                            <input type="hidden" name="flowerID" value="@item.FlowerBouquetId">
+                            <input type="text" hidden="hidden" name="quantity" value="0">
+                            }
+                        </td>
+            </tr>
+ 
+      
+}
+    </tbody>
+
+</table>
+<input type="submit" value="Buy" />
+      </form>
+      }
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
